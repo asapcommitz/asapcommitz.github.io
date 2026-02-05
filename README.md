@@ -20,4 +20,4 @@ I'm tired of corporate minimalism and the "Software as a Subscription" model. I 
 ## Connect
 
 - Find me on [GitHub](https://github.com/asapcommitz)
-- Email: [hello@asapcommitz.com](mailto:hello@asapcommitz.com)
+- Email: [felixdayapper@proton.me](mailto:felixdayapper@proton.me)
