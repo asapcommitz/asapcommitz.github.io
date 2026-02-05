@@ -6,7 +6,7 @@ I'm currently working on improving **vanilla.md**, a markdown renderer that puts
 
 ## Favorite Projects
 
-- **vanilla.md**: The no-nonsense markdown renderer. (You're looking at it right now!)
+- **vanilla.md**: The no-nonsense markdown renderer.
 - **fish plugins**: Working on some fish plugins (like fishglob and bournefish!)
 - **More upcoming CLI tools**: Stay tuned!
 
